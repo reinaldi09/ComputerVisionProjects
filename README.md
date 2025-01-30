@@ -2,9 +2,9 @@
 
 ## Description
 
-Welcome to the **Computer Vision Practice Projects** repository! This repository is dedicated to various practice projects aimed at exploring and understanding different aspects of computer vision. Each project within this repository is designed to help you build and enhance your skills in computer vision, using different techniques and tools.
+Welcome to the **Computer Vision Practice Projects** repository! This repository is a collection of my previous projects, including those from learning courses, fun personal experiments, and freelance work. Each project is designed to explore and understand different aspects of computer vision, using a variety of techniques and tools.
 
-Whether you are a beginner looking to get started or an experienced practitioner looking to refine your skills, this repository offers a range of projects that cover fundamental concepts to advanced applications in computer vision.
+Whether you're a beginner looking to get started or an experienced practitioner aiming to refine your skills, this repository offers a range of projects that cover fundamental concepts to advanced applications in computer vision. Dive in to see how I've applied computer vision techniques to solve real-world problems, learn new skills, and have fun along the way!
 
 ## Table of Contents
 
